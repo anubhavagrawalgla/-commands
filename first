@@ -8,3 +8,5 @@ mkdir
 it used to create a new directory
 rmdir 
 it is used to remove an exisiting directory
+cal
+it used to show the calender
