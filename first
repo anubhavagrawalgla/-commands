@@ -20,4 +20,5 @@ echo
 used to display some msg on terminal.
 clear
 used to clear the screen
-
+sort 
+Sort a file in ascending order
