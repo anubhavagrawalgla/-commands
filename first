@@ -22,3 +22,7 @@ clear
 used to clear the screen
 grep 
 Search for a given string in a file (case in-sensitive search).
+locate
+ command is meant to find a file within the Linux OS.
+tar
+Create a new tar archive.
