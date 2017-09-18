@@ -12,3 +12,5 @@ cal
 it used to show the calender
 echo
 used to display some msg on terminal.
+clear
+used to clear the screen
