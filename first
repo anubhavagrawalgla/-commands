@@ -22,3 +22,5 @@ clear
 used to clear the screen
 locate
  command is meant to find a file within the Linux OS.
+tar
+Create a new tar archive.
