@@ -12,3 +12,5 @@ cal
 it used to show the calender
 ls
 display the contents
+echo
+used to display the output on terminal
