@@ -10,3 +10,5 @@ rmdir
 it is used to remove an exisiting directory
 cal
 it used to show the calender
+echo
+used to display some msg on terminal.
