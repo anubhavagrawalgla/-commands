@@ -26,3 +26,5 @@ tar
 Create a new tar archive.
 ssh
 Login to remote host
+ awk
+ Remove duplicate lines using awk
