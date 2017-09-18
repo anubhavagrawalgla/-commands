@@ -20,13 +20,16 @@ echo
 used to display some msg on terminal.
 clear
 used to clear the screen
+sort 
+Sort a file in ascending order
 grep 
 Search for a given string in a file (case in-sensitive search).
 locate
- command is meant to find a file within the Linux OS.
+command is meant to find a file within the Linux OS.
 tar
 Create a new tar archive.
 ssh
 Login to remote host
- awk
- Remove duplicate lines using awk
+awk
+Remove duplicate lines using awk
+
