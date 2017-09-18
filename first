@@ -4,3 +4,5 @@ cd
 the cd command is used for change a directory
 mv
 it is used to move a file
+mkdir
+it used to create a new directory
