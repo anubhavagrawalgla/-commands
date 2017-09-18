@@ -6,3 +6,5 @@ mv
 it is used to move a file
 mkdir
 it used to create a new directory
+rmdir 
+it is used to remove an exisiting directory
