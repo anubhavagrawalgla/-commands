@@ -26,3 +26,7 @@ locate
  command is meant to find a file within the Linux OS.
 tar
 Create a new tar archive.
+ssh
+Login to remote host
+ awk
+ Remove duplicate lines using awk
